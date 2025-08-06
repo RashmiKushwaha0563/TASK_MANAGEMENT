@@ -69,3 +69,7 @@ npm install
 ```env
 npm run dev
 ```
+## 🌐 Deployment
+
+This project is live and can be accessed at:  
+👉 [https://team-sync-iota.vercel.app/](https://team-sync-iota.vercel.app/)
